@@ -1,0 +1,84 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Bank System",
+      "slug": "bank-fundamentils",
+      "description": "Our TypeScript bank system project offers secure, efficient account management and transaction tracking. Built with reliability and scalability in mind, it streamlines banking operations while prioritizing security.",
+      "instructor": "Ahmed Shah",
+      "isFeatured": true
+    },
+    {
+      "id": 2,
+      "title": "Calculator",
+      "slug": "calculator-fundamentils",
+      "description": "Introducing our TypeScript mini calculator: a sleek, user-friendly tool for quick and accurate calculations. Built with TypeScript for reliability, it simplifies arithmetic tasks with ease, making it perfect for both personal and professional use.",
+      "instructor": "Bilal Fareed",
+      "isFeatured": true
+    },
+    {
+      "id": 3,
+      "title": "ATM",
+      "slug": "atm-fundamentils",
+      "description": "Our TypeScript ATM project: A secure, user-friendly system for transactions. Powered by TypeScript for reliability, it simplifies banking operations with essential functionalities like withdrawals and deposits, prioritizing security and performance.",
+      "instructor": "Ahmed Shah",
+      "isFeatured": true
+    },
+    {
+      "id": 3,
+      "title": "ATM",
+      "slug": "atm-fundamentils",
+      "description": "Introducing our TypeScript mini calculator: a sleek, user-friendly tool for quick and accurate calculations. Built with TypeScript for reliability, it simplifies arithmetic tasks with ease, making it perfect for both personal and professional use.",
+      "instructor": "Ahmed Shah",
+      "isFeatured": false
+    },
+    {
+      "id": 4,
+      "title": "Guess The Number",
+      "slug": "guessthenumber-fundamentils",
+      "description": "Try our TypeScript 'Guess the Number' game! Enjoy the challenge of guessing the correct number within a range. With TypeScript, it's smooth and reliable, offering hints for an engaging experience.",
+      "instructor": "Bilal Fareed",
+      "isFeatured": true
+    },
+    {
+      "id": 5,
+      "title": "Count Down Timer",
+      "slug": "countdowntimer-fundamentils",
+      "description": "Introducing our TypeScript Countdown Timer project: A sleek and efficient tool for tracking time intervals. With TypeScript, it ensures reliability and precision in countdowns. Simplify time management with a user-friendly interface and customizable features. Whether for personal productivity or professional use, our Countdown Timer enhances efficiency with ease.",
+      "instructor": "Ahmed Shah",
+      "isFeatured": true
+    },
+    {
+      "id": 6,
+      "title": "Word Counter",
+      "slug": "wordcounter-fundamentils",
+      "description": "Explore our TypeScript Word Counter project: An efficient tool for tracking word counts with precision. Powered by TypeScript, it offers reliability and accuracy, simplifying text analysis tasks. Perfect for writers, students, and professionals, our Word Counter provides a user-friendly interface for seamless word counting experiences.",
+      "instructor": "Bilal Fareed",
+      "isFeatured": true
+    },
+    {
+      "id": 7,
+      "title": "Registration Form",
+      "slug": "registrationform-fundamentils",
+      "description": "Introducing our Registration Form project: Combining HTML, CSS, and JavaScript, it offers a streamlined user interface for easy data input and submission. With validation features, it ensures accuracy and efficiency, providing a pleasant registration experience.",
+      "instructor": "Ghous Ahmed",
+      "isFeatured": true
+    },
+    {
+      "id": 8,
+      "title": "Portfolio-Website",
+      "slug": "portfolio-website-fundamentils",
+      "description": "Welcome to my Portfolio Website powered by Next.js: Explore my work and skills through a dynamic, responsive interface. Experience fast performance and seamless navigation as you delve into my projects and expertise.",
+      "instructor": "Ghous Ahmed",
+      "isFeatured": true
+    },
+    {
+      "id": 9,
+      "title": "Food-Website",
+      "slug": "food-website-fundamentils",
+      "description": "Welcome to my Food Website powered by Next.js: Explore my work and skills through a dynamic, responsive interface. Experience fast performance and seamless navigation as you delve into my projects and expertise.",
+      "instructor": "Ghous Ahmed",
+      "isFeatured": true
+    }
+  ]
+}
